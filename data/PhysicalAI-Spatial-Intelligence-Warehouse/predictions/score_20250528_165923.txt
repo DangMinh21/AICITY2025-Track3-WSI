@@ -1,0 +1,27 @@
+===== EVALUATION RESULTS =====
+
+QUANTITATIVE RESULTS:
+Count (500): 500/500 = 100.00%
+  Abs Rel = 0.0
+  Error Rate = 0.00%
+Distance (486): 486/486 = 100.00%
+  Abs Rel = 0.0
+  Error Rate = 0.00%
+
+QUALITATIVE RESULTS:
+left_right (500): 500/500 = 100.00%
+mcq (456): 456/456 = 100.00%
+
+===== OVERALL SUMMARY =====
+Count (weighted): 100.00% * 0.25 = 25.00
+Distance (weighted): 100.00% * 0.25 = 25.00
+left_right (weighted): 100.00% * 0.25 = 25.00
+mcq (weighted): 100.00% * 0.25 = 25.00
+
+Final Weighted Score: 100.00%
+Quantitative: 986/986 = 100.00%
+Qualitative: 956/956 = 100.00%
+Overall: 1942/1942 = 100.00%
+
+Saved summary results to: ./predictions/score_20250528_165923.json
+Saved full results to: ./predictions/full_results_20250528_165923.json

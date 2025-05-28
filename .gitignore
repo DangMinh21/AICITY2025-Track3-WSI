@@ -189,4 +189,13 @@ cython_debug/
 
 # ======= Add ======
 .DS_Store
-data
+data/PhysicalAI-Spatial-Intelligence-Warehouse/.cache
+data/PhysicalAI-Spatial-Intelligence-Warehouse/train 
+data/PhysicalAI-Spatial-Intelligence-Warehouse/test
+data/PhysicalAI-Spatial-Intelligence-Warehouse/val
+# data/PhysicalAI-Spatial-Intelligence-Warehouse/predictions
+data/PhysicalAI-Spatial-Intelligence-Warehouse/train_sample
+data/PhysicalAI-Spatial-Intelligence-Warehouse/.gitattributes
+data/PhysicalAI-Spatial-Intelligence-Warehouse/test.json
+data/PhysicalAI-Spatial-Intelligence-Warehouse/train.json
+data/PhysicalAI-Spatial-Intelligence-Warehouse/val.json 
