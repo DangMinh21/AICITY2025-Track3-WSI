@@ -189,7 +189,7 @@ cython_debug/
 
 # ======= Add ======
 .DS_Store
-data
+./data
 data/PhysicalAI-Spatial-Intelligence-Warehouse/.cache
 data/PhysicalAI-Spatial-Intelligence-Warehouse/train 
 data/PhysicalAI-Spatial-Intelligence-Warehouse/test
