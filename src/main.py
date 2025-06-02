@@ -15,8 +15,6 @@ tokenizer, model, image_processor, context_len = load_pretrained_model(
 )
 print("SpatialRGPT model loaded.")
 
-## Count parameters
-# total_params = sum(p.numel() for p in model.parameters())
-# print(f"Total parameters: {total_params / 1e9:.3f} B")
-# trainable_params = sum(p.numel() for p in model.parameters() if p.requires_grad)
-# print(f"Trainable parameters: {trainable_params / 1e9:.3f} B")
+
+# Call inference function to finetune with train_sample
+# engine.evaluate.py
